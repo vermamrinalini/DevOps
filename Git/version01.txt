@@ -1,3 +1,2 @@
 This is the bug fix in development branch
-This is gadbad code
-This feature will gadbad everything from now
+After bug fixing, this is the new feature with minor alteration
